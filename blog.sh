@@ -2,7 +2,7 @@
 
 md_directory="."
 
-html_directory="./build"
+html_directory="./docs"
 mkdir -p "$html_directory"
 rm -f "$html_directory"/*.html
 
